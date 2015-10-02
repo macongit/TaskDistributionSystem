@@ -1,0 +1,1 @@
+[error] [2015-07-10 18:16:17] [TDSConfiguration] [__init__] : Configuration file not found[error] [2015-07-10 18:17:35] [TDSConfiguration] [__init__] : Configuration file not found

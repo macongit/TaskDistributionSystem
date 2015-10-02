@@ -1,0 +1,7 @@
+id,client_id,node_id,taskName,taskParameters,taskExePath,taskState,taskStatus,taskResult,errorMessage
+30,1,1,task1,"param1 param2","c:\tmp\test.exe",1,1,"Result data"," "
+31,2,2,task2,"param1 param2 param3","c:\tmp\test2.exe",2,1,"Result data"," "
+32,3,3,task3,"param1 param2 param3 param4","c:\tmp\test3.exe",3,1,"Result data"," "
+33,4,4,task4,"param1 param2 param3 param4 param5","c:\tmp\test4.exe",3,1,"Result data","File Not found exception"
+34,5,5,task5,"param1 param2 param3 param4 param5 param6","c:\tmp\test5.exe",3,1,"Result data","Null pointer exception"
+35,6,6,task6,"param1 param2 param3 param4 param5 param6 param7","c:\tmp\test6.exe",3,1,"Result data","Null pointer exception"
